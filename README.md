@@ -29,29 +29,29 @@ Feita como uma atividade  universitária.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Visualização
+## Visualização 🖼️
 
 Aqui está uma visualização da interface da calculadora:
 <p align="center">
 <img src="/imagens/calc.png" width="240px" height="360px"> 
 </p>
 
-Calculos: 
-## Demonstração das Operações
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-| Adição | Subtração |
-|--------|------------|
-| ![Adição](/imagens/soma.gif) | ![Subtração](/imagens/menos.gif) |
+## Demonstração das Operações 📲
 
-| Divisão | Multiplicação |
-|---------|---------------|
-| ![Divisão](/imagens/div.gif) | ![Multiplicação](/imagens/multi.gif) |
+| Adição | Subtração | Divisão |
+|--------|------------|-------------|
+| ![Adição](/imagens/soma.gif) | ![Subtração](/imagens/menos.gif) |  ![Divisão](/imagens/div.gif) |
 
-| Conta com ponto |
-|-----------------|
-| ![Conta com ponto](/imagens/ponto.gif) |
+
+| Multiplicação | Conta com ponto |
+|---------------|-----------------|
+| ![Multiplicação](/imagens/multi.gif) | ![Conta com ponto](/imagens/ponto.gif) |
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-# Contribuindo 
+
+## Contribuindo 
 Sinta-se à vontade para contribuir com novas funcionalidades, correções de bugs ou melhorias na interface. Basta abrir uma issue ou enviar um pull request!
